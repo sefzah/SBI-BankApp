@@ -1,2 +1,9 @@
 def class:
 	print ('welcome')
+
+def welcome:
+	print('online aws')
+
+def process:
+	pass
+print('this is EOF')
